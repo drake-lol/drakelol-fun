@@ -1,2 +1,2 @@
-## this is my cool website hosted at https://drakelol.fun!
+## this is my cool website hosted at [drakelol.fun](https://drakelol.fun)!
 yes its cool i know
